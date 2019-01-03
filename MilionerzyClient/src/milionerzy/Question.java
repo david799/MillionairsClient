@@ -1,10 +1,5 @@
 package milionerzy;
 
-/**
- *
- * @author Sebastian Pulak
- */
-
 public class Question {
     private String question;
     private String answer1;
